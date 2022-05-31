@@ -1,3 +1,4 @@
-export function distance(northPole, sourthPole) {
-  return distance;
+export function distance(value) {
+  return value;
 }
+f
