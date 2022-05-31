@@ -1,3 +1,3 @@
-export function sum(a, b) {
-  return a + b;
+export function distance(northPole, sourthPole) {
+  return distance;
 }
